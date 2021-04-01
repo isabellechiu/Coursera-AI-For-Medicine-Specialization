@@ -1,1 +1,1 @@
-"# Coursera-s-AI-For-Medicine-Specialization-" 
+"# Coursera-AI-For-Medicine-Specialization" 
